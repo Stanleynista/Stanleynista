@@ -17,6 +17,29 @@ I recently completed an online data science bootcamp and am looking for a transi
 
 **Tech Skills:**  Excel, Python, R, MYSQL and PowerBI.
 
+
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>R</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/stanleyleãoalves)
