@@ -8,6 +8,7 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
+<h3>•💻 About Me </h3>
 
 Customer Success Manager. Bachelor's degree in Business Administration from University FEI. Advanced English and intermediate Spanish. Extensive expertise in the area of customer services, Backoffice, Compliance, credit analysis and collection and monitoring of metrics and KPI's. 
 
