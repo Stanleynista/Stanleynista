@@ -1,10 +1,13 @@
 [![author](https://img.shields.io/badge/LinkedIn-red.svg)](https://www.linkedin.com/in/stanleyleãoalves) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Stanleynista)
 
-
 # Stanley Leão Alves
 <sub>*Data Scientist in progress* </sub>
 
-*** Looking for a professional transition to Data Analyst ou BI Analyst ***
+**Looking for a professional transition to Data Analyst ou BI Analyst**
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
 
 Customer Success Manager. Bachelor's degree in Business Administration from University FEI. Advanced English and intermediate Spanish. Extensive expertise in the area of customer services, Backoffice, Compliance, credit analysis and collection and monitoring of metrics and KPI's. 
 
