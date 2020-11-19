@@ -15,8 +15,6 @@ Customer Success Manager. Bachelor's degree in Business Administration from Univ
 Experiences in startups, dynamic environments  with agile methodologies for analyzing and building processes and products.
 I recently completed an online data science bootcamp and am looking for a transition to a career in data.
 
-**Tech Skills:**  Excel, Python, R, MYSQL and PowerBI.
-
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
@@ -39,6 +37,10 @@ I recently completed an online data science bootcamp and am looking for a transi
     </tr>
   </tbody>
 </table>
+
+# Other Skills
+
+ * Excel and PowerBI.
 
 **Links:**
 
