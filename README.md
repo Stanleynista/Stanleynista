@@ -44,7 +44,9 @@ I recently completed an online data science bootcamp and am looking for a transi
 
 **Links:**
 
-[![author](https://img.shields.io/badge/LinkedIn-red.svg)](https://www.linkedin.com/in/stanleyleãoalves)
+  <a href="https://https://www.linkedin.com/in/stanley-leao-alves/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Stanley Leão Alves's LinkedIn Profile" height="30" width="30">
+  </a>
 
 <a href="https://www.instagram.com/stanleynista/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-stanleynista-black?style=flat-square&logo=instagram"></a>
 
