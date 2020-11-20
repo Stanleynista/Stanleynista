@@ -1,7 +1,6 @@
 # Stanley Leão Alves
 <sub>*Data Scientist in progress* </sub>
 
-
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Stanleynista)](https://twitter.com/Stanleynista)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-leao-alves/)](https://www.linkedin.com/in/stanley-leao-alves/)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@falecomstanley)
@@ -42,20 +41,6 @@ I recently completed an online data science bootcamp and am looking for a transi
     </tr>
   </tbody>
 </table>
-
-<h2 align="center">You can reach me at</h2>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/stanley-leao-alves/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Stanleynista's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://medium.com/@falecomstanley">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Stanleynista's Medium Profile" height="30" width="30">
-  </a>
-
-
 
 ## Projects:
 Veja todos meus projetos publicados:
