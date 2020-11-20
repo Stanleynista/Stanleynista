@@ -16,9 +16,9 @@
 
 <h3 align="left"> Hi, I'm Stanley Leão Alves </h3>
 
-- Data and Economics research enthusiast
+- São Paulo, BR
+- Data and ML enthusiast
 - Passionate about how Data can change the world for better
-- Currently learning **ML**
 - Currently looking for opportunities. I love to learn.
 
 ## Tech Skills
