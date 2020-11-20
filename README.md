@@ -47,6 +47,11 @@ Veja todos meus projetos publicados:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
+## Github Statistics
+<div align="center">
+  
+[![Stanleynista's github statistics](https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/Stanleynista/github-readme-stats)<br/>
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
