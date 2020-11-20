@@ -16,10 +16,11 @@
 
 <h3 align="left"> Hi, I'm Stanley Leão Alves </h3>
 
-- São Paulo, BR
+- São Paulo, BR 
 - Data and ML enthusiast
 - Passionate about how Data can change the world for better
 - Currently looking for opportunities. I love to learn.
+- Just a little addicted to coffee ☕
 
 ## Tech Skills
 
@@ -27,15 +28,15 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
+        <span>Python</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>R</span><br><br><br>
+        <span>R</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
       </td>
       <td width="25%" align="center">
-        <span>MySQL</span><br><br><br>
+        <span>MySQL</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
