@@ -29,15 +29,15 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Python</span><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span>R</span><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/r-lang.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
       </td>
       <td width="25%" align="center">
         <span>MySQL</span><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
   </tbody>
