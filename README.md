@@ -21,7 +21,7 @@ I recently completed an online data science bootcamp and am looking for a transi
 
 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## Tech Skills
 
 <table>
   <tbody>
