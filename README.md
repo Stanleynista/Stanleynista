@@ -12,14 +12,15 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
-<h3>•💻 About Me </h3>
+<h1>•💻 What about me </h1>
 
-Customer Success Manager. Bachelor's degree in Business Administration from University FEI. Advanced English and intermediate Spanish. Extensive expertise in the area of customer services, Backoffice, Compliance, credit analysis and collection and monitoring of metrics and KPI's. 
+<h3 align="left"> hello, i'm Stanley Leão Alves </h3>
 
-Experiences in startups, dynamic environments  with agile methodologies for analyzing and building processes and products.
-I recently completed an online data science bootcamp and am looking for a transition to a career in data.
-
-
+- São Paulo, BR.
+- Data and Economics research enthusiast
+- Passionate about how Data can change the world for better
+- Currently learning **ML**
+- Currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## Tech Skills
 
