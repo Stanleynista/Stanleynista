@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Stanleynista?tab=followers)
 
 
-**Looking for a career transition to Data Analyst**
+### Looking for a career transition to Data Analyst
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -22,7 +22,7 @@
 - Currently looking for opportunities. I love to learn.
 - Just a little addicted to coffee ☕
 
-<h2> Tech Skills </h2>
+### Tech Skills
 
 <table>
   <tbody>
@@ -43,12 +43,12 @@
   </tbody>
 </table>
 
-## Projects:
-Veja todos meus projetos publicados:
+### Projects:
+See my latests projects:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
-## Github Statistics
+### Github Statistics
 <div align="left">
   
 [![Stanleynista's github statistics](https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/Stanleynista/github-readme-stats)<br/>
