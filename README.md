@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Stanleynista?tab=followers)
 
 
-****Looking for a new career in Data Analyst****
+**Looking for a transition into Data field**
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
