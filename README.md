@@ -44,7 +44,7 @@ I recently completed an online data science bootcamp and am looking for a transi
 
 **Links:**
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+  <a href="https://www.linkedin.com/in/stanley-leao-alves/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
