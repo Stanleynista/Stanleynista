@@ -12,7 +12,7 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
-<h1> What about me 💻 </h1>
+<h2> What about me 💻 </h2>
 
 <h3 align="left"> Hi, I'm Stanley Leão Alves 👋 </h3>
 
