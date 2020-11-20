@@ -22,7 +22,7 @@
 - Currently looking for opportunities. I love to learn.
 - Just a little addicted to coffee ☕
 
-## Tech Skills
+<h2> Tech Skills </h2>
 
 <table>
   <tbody>
