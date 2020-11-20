@@ -45,12 +45,14 @@ I recently completed an online data science bootcamp and am looking for a transi
 **Links:**
 
   <a href="https://https://www.linkedin.com/in/stanley-leao-alves/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Stanley Leão Alves's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Stanley Leão Alves LinkedIn Profile" height="30" width="30">
   </a>
 
 <a href="https://www.instagram.com/stanleynista/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-stanleynista-black?style=flat-square&logo=instagram"></a>
 
-* [Medium](https://medium.com/@falecomstanley)
+ <a href="https://medium.com/@falecomstanley">
+ <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Stanley Leão Alves Medium Profile" height="30" width="30">
+  </a>
 
 
 ## Projetos:
