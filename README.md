@@ -53,9 +53,10 @@ I recently completed an online data science bootcamp and am looking for a transi
   <a href="https://medium.com/@falecomstanley">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Stanleynista's Medium Profile" height="30" width="30">
   </a>
+ 
 
 
-## Projetos:
+## Projects:
 Veja todos meus projetos publicados:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
