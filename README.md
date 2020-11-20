@@ -42,16 +42,16 @@ I recently completed an online data science bootcamp and am looking for a transi
 
  * Excel and PowerBI.
 
-**Links:**
+<h2 align="center">You can reach me at</h2>
+
+<p align="center">
 
   <a href="https://www.linkedin.com/in/stanley-leao-alves/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Stanleynista's LinkedIn Profile" height="30" width="30">
   </a>
 
-<a href="https://www.instagram.com/stanleynista/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-stanleynista-black?style=flat-square&logo=instagram"></a>
-
- <a href="https://medium.com/@falecomstanley">
- <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Stanleynista's Medium Profile" height="30" width="30">
+  <a href="https://medium.com/@falecomstanley">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Stanleynista's Medium Profile" height="30" width="30">
   </a>
 
 
