@@ -38,10 +38,6 @@ I recently completed an online data science bootcamp and am looking for a transi
   </tbody>
 </table>
 
-# Other Skills
-
- * Excel and PowerBI.
-
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
@@ -60,6 +56,10 @@ I recently completed an online data science bootcamp and am looking for a transi
 Veja todos meus projetos publicados:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+
+<h4 align="center">Profile stats</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&theme=synthwave" alt="Stanleynista :: Profile Stats" /></p>
 
 
 
