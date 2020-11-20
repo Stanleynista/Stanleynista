@@ -1,7 +1,12 @@
-[![author](https://img.shields.io/badge/LinkedIn-red.svg)](https://www.linkedin.com/in/stanleyleãoalves) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Stanleynista)
-
 # Stanley Leão Alves
 <sub>*Data Scientist in progress* </sub>
+
+
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Stanleynista)](https://twitter.com/Stanleynista)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-leao-alves/)](https://www.linkedin.com/in/stanley-leao-alves/)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@falecomstanley)
+[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Stanleynista?tab=followers)
+
 
 **Looking for a professional transition to Data Analyst ou BI Analyst**
 
@@ -49,7 +54,7 @@ I recently completed an online data science bootcamp and am looking for a transi
   <a href="https://medium.com/@falecomstanley">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Stanleynista's Medium Profile" height="30" width="30">
   </a>
- 
+
 
 
 ## Projects:
@@ -59,7 +64,7 @@ Veja todos meus projetos publicados:
 
 <h4 align="center">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&theme=synthwave" alt="Stanleynista :: Profile Stats" /></p>
+<p align="center"><img src=![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&hide_border=true)
 
 
 
