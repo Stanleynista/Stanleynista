@@ -14,7 +14,7 @@
 
 <h1> What about me 💻 </h1>
 
-<h3 align="left"> hello, i'm Stanley Leão Alves </h3>
+<h3 align="left"> Hi, I'm Stanley Leão Alves </h3>
 
 - São Paulo, BR.
 - Data and Economics research enthusiast
