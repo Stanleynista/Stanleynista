@@ -42,11 +42,12 @@ See my latests projects:
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
 ### Github Statistics
-<div align="center">
+<div align="left">
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
