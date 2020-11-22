@@ -39,7 +39,7 @@
 ### Projects:
 See my latests projects:
 
-* **Como criar uma API do BACEN para análises Macroeconômicas:** https://bit.ly/35TrRLs
+* **Criando uma API do BACEN para análises de séries temporais macroeconômicas:** https://bit.ly/35TrRLs
 
 ### Github Statistics
 <div align="left">
