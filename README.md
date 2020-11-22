@@ -51,7 +51,7 @@ See my latests projects:
 ### Github Statistics
 <div align="left">
   
-[![Stanleynista's github statistics](https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/Stanleynista/github-readme-stats)<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
