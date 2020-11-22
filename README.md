@@ -51,7 +51,7 @@ See my latests projects:
   
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="right"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="right"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="150" width="250"></p>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
