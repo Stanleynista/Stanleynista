@@ -39,7 +39,7 @@
 ### Projects:
 See my latests projects:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Como criar uma API do BACEN para análises Macroeconômicas:** https://bit.ly/35TrRLs
 
 ### Github Statistics
 <div align="left">
