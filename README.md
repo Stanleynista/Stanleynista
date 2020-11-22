@@ -6,16 +6,14 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@falecomstanley)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Stanleynista?tab=followers)
 
-
-### Looking for a career transition to Data Analyst
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### What about me 💻 ###
+### About me 💻 ###
 
 <h3 align="left"> Hi, I'm Stanley Leão Alves 👋 </h3>
 
+- Looking for a career **transition** to Data Analyst
 - São Paulo, BR 
 - Data and ML enthusiast
 - Passionate about how Data can change the world for better
@@ -52,6 +50,8 @@ See my latests projects:
 <div align="left">
   
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Stanleynista&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
