@@ -13,11 +13,10 @@
 
 <h3 align="left"> Hi, I'm Stanley Leão Alves 👋 </h3>
 
-- Looking for a career **transition** to Data Analyst
 - São Paulo, BR 
-- Data and ML enthusiast
+- I'm Currently looking for opportunities in the Data field.
+- I'm tech enthusiast and I love to learn.
 - Passionate about how Data can change the world for better
-- Currently looking for opportunities. I love to learn.
 - Just a little addicted to coffee ☕
 
 ### Tech Skills
